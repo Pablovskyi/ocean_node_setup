@@ -7,7 +7,7 @@ echo -e "██║░░██╗██╔══██╗░░╚██╔╝�
 echo -e "╚█████╔╝██║░░██║░░░██║░░░██║░░░░░░░░██║░░░╚█████╔╝██████╦╝╚██████╔╝░░░██║░░░"
 echo -e "░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░░░░╚═╝░░░░╚════╝░╚═════╝░░╚═════╝░░░░╚═╝░░░"
 
-echo -e "\033[1;32mG7 community: \033[5;31mhttps://t.me/cryptobuyon[0m"
+echo -e "\033[1;32mCryptobuy community: \033[5;31mhttps://t.me/cryptobuyon"
 echo -e "\033[0m"
 
 # Checking and installing Docker
